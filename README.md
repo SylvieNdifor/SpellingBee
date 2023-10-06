@@ -29,11 +29,12 @@ After the timer runs out, players have the option to restart the game and attemp
 **User-Friendly Interface:**
 
 The game's user interface includes a welcoming message, a timer display, a word display, and clear instructions.
-# V
-Below is a visual representation of the before the game starts
-<img width="1440" alt="Screenshot 2023-10-05 at 12 45 17 AM" src="https://github.com/SylvieNdifor/SpellingBee/assets/147012281/4c7bfcdb-86af-4c1d-9896-e4ad9e5433dc">
-Below is a visual representation of the before the game ends
-<img width="1440" alt="Screenshot 2023-10-05 at 1 16 46 AM" src="https://github.com/SylvieNdifor/SpellingBee/assets/147012281/45de038d-3be4-44ed-ada5-0ece6a3d654c">
+# VIRTUAL REPRESENTATION
+Below is a visual representation before the game starts
+![Screenshot 2023-10-05 at 12 45 17 AM](https://github.com/SylvieNdifor/SpellingBee/assets/147012281/20bff0d8-d835-4cc3-9b8e-51a2edf19210)
+
+Below is a visual representation after the game ends
+![Screenshot 2023-10-05 at 1 16 46 AM](https://github.com/SylvieNdifor/SpellingBee/assets/147012281/76864ba8-7684-409d-9689-32a4a8e0a5d9)
 
 # CONTRIBUTIONS
 Thank you for considering contributing to SpellingBee! All contributions from the community to help improve and enhance this project are welcomed. Whether you're fixing a bug, adding a feature, or improving documentation, your contributions are highly appreciated.
